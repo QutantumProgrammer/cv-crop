@@ -1,0 +1,22 @@
+{
+  "name": "cv-crop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crop.js",
+  "scripts": {
+    "demo": "npm i && node crop.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QutantumProgrammer/cv-crop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QutantumProgrammer/cv-crop/issues"
+  },
+  "homepage": "https://github.com/QutantumProgrammer/cv-crop#readme",
+  "devDependencies": {
+    "jimp": "^0.16.1"
+  }
+}
